@@ -1,3 +1,3 @@
-#Emoticons
-Hier staan extra emoticons:
+#Emoticons  
+Hier staan extra emoticons:  
 🦾
