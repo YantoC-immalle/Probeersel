@@ -8,3 +8,6 @@ Mijn leerkracht zegt wel eens:
 > Markdown is een zeer handige opmaaktaal voor eenvoudige tekstjes!
 
 :-1:
+
+## Visual Studio Code 
+Visual Studio Code is toch **echt** wel een editor met veel mogelijkheden!
